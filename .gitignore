@@ -1,0 +1,15 @@
+# EDA Playground / Aldec Riviera generated files
+work/
+transcript
+*.wlf
+*.vcd
+!output_waveform.png
+
+# Cadence / Synopsys if used locally
+*.log
+*.cmd
+INCA_libs/
+
+# OS
+.DS_Store
+Thumbs.db
